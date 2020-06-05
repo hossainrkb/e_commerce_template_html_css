@@ -85,7 +85,7 @@
  .heading_menu>div {
      padding: 0px 0px 0px 20px;
      font-size: 12px;
-     background-color: red;
+     /* background-color: red; */
      /* border-right: 1px solid rgb(12, 49, 83); */
  }
 
